@@ -1,21 +1,21 @@
 # AI-Powered Report Generator
 
-## 📌 Description
+##  Description
 This project generates automated reports from datasets using AI.
 
-## 🚀 Features
+##  Features
 - Upload CSV file
 - Auto data analysis
 - AI-generated insights
 - Downloadable report
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - Pandas
 - OpenAI (optional)
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
